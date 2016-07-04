@@ -1,1 +1,1 @@
-start jre7\bin\javaw -jar fileCompress.jar
+start javaw -jar fileCompress.jar
